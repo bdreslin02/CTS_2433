@@ -1,2 +1,2 @@
 # CTS_2433
-SQL files required for SPC's CTS 2433 course
+SQL Files for SPC's CTS 2433 course
