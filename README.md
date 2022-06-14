@@ -1,2 +1,3 @@
 # CTS_2433
-MySQL files for SPC's CTS 2433 course
+Modules 3 - 8 case exercise files. 
+All MySQL scripts associated with modules 3 through 8 Case Exercises included as part of the *A Guide to SQL (10th Edition)* text by Mark Shellman, Hassan Afyouni, Philip J. Pratt, and Mary Z. Last.
